@@ -1,0 +1,23 @@
+.profile{
+width: 250px;
+display: block; 
+margin-left: auto;
+margin-right: auto;
+}
+
+.font-option{
+    text-align: center; 
+    letter-spacing: 2px;
+}
+
+.my-box{
+    width:600px;
+    height:250px;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto;
+    border:3px solid; 
+    padding-left: 10px;
+    
+    
+}
